@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af330167-d145-4ba7-a8ea-fe75c3e5ee3f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/factory/CheeseFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/factory/FoodFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/factory/SalmonFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/product/Cake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/product/CheeseCake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/product/CheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/product/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/product/SalmonCake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/product/SalmonPizza.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FactoryMethodPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FactoryMethodPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/src/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -311,7 +322,7 @@
     <entry file="file://$PROJECT_DIR$/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bdeeded0-4193-413a-9791-9474c18e2bd3" name="Default Changelist" comment="" />
+    <list default="true" id="bdeeded0-4193-413a-9791-9474c18e2bd3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/factory/CheeseFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/factory/FoodFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/factory/SalmonFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/product/Cake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/product/CheeseCake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/product/CheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/product/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/product/SalmonCake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/product/SalmonPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFactoryPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleFactoryPattern/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/src/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
-              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -40,7 +53,7 @@
         <entry file="file://$PROJECT_DIR$/src/factory/CheesePizzaFactory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
-              <caret line="14" lean-forward="true" selection-start-line="5" selection-end-line="14" />
+              <caret line="14" selection-start-line="5" selection-end-line="14" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#182#183#0" expanded="true" />
@@ -136,12 +149,6 @@
               <item name="FactoryMethodPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="FactoryMethodPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FactoryMethodPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FactoryMethodPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="product" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -214,12 +221,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568893829669</updated>
-      <workItem from="1568893834198" duration="2006000" />
+      <workItem from="1568893834198" duration="3306000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2006000" />
+    <option name="totallyTimeSpent" value="3306000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -287,7 +294,7 @@
     <entry file="file://$PROJECT_DIR$/src/factory/CheesePizzaFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
-          <caret line="14" lean-forward="true" selection-start-line="5" selection-end-line="14" />
+          <caret line="14" selection-start-line="5" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#182#183#0" expanded="true" />
@@ -318,7 +325,7 @@
     <entry file="file://$PROJECT_DIR$/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
