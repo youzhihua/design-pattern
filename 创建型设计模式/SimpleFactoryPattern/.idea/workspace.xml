@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af330167-d145-4ba7-a8ea-fe75c3e5ee3f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/factory/CheeseFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/factory/FoodFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/factory/SalmonFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/product/Cake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/product/CheeseCake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/product/CheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/product/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/product/SalmonCake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/product/SalmonPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractFactoryPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FactoryMethodPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FactoryMethodPattern/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -66,8 +57,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+            <state relative-caret-position="374">
+              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -111,8 +102,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
     <option name="width" value="1175" />
     <option name="height" value="1103" />
   </component>
@@ -209,12 +200,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568809190357</updated>
-      <workItem from="1568809193997" duration="4945000" />
+      <workItem from="1568809193997" duration="5855000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4945000" />
+    <option name="totallyTimeSpent" value="5855000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -235,7 +226,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -321,8 +312,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        <state relative-caret-position="374">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
