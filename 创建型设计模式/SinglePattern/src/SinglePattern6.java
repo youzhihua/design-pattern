@@ -4,7 +4,7 @@
 enum  SinglePattern6 {
     INSTANCE;
     public void doSomething(){
-        //可以设置多个方法，此方法INSTANCE都可以调用
+        //可以设置多个方法，INSTANCE本身就是SinglePattern6的一个引用，所以此方法INSTANCE都可以调用
         System.out.println("do something");
     }
 }
