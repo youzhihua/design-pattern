@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe28edce-62da-426a-9502-20d64b19836d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/adapter/Duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../创建型设计模式/BuilderPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../创建型设计模式/BuilderPattern/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../创建型设计模式/SinglePattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../创建型设计模式/SinglePattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../创建型设计模式/SinglePattern/src/SinglePattern6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../创建型设计模式/SinglePattern/src/SinglePattern6.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,7 +42,7 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1140" />
     <option name="width" value="1175" />
-    <option name="height" value="1104" />
+    <option name="height" value="1105" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -78,6 +77,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -115,12 +115,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569329540600</updated>
-      <workItem from="1569329563012" duration="643000" />
+      <workItem from="1569329563012" duration="1009000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="643000" />
+    <option name="totallyTimeSpent" value="1009000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
