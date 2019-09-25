@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc3cab32-1bcb-4ced-bb76-36437977968a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/SinglePattern6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SinglePattern6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../结构型设计模式/AdapterPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../结构型设计模式/AdapterPattern/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -210,16 +210,15 @@
       <option name="presentableId" value="Default" />
       <updated>1569209949258</updated>
       <workItem from="1569209952244" duration="6833000" />
-      <workItem from="1569330630991" duration="278000" />
+      <workItem from="1569330630991" duration="1203000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7111000" />
+    <option name="totallyTimeSpent" value="8036000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1494638" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
