@@ -4,6 +4,9 @@ import decorate.Clothes;
 
 import java.util.List;
 
+/**
+ * 游戏人物抽象类
+ */
 public abstract class Person {
     List<Clothes> decorateClothes;
 

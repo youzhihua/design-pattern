@@ -9,6 +9,9 @@ import entity.Women;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 测试类
+ */
 public class Test {
     public static void main(String[] args) {
         //初始化服饰

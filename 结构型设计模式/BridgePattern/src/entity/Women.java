@@ -4,6 +4,9 @@ import decorate.Clothes;
 
 import java.util.List;
 
+/**
+ * 女性角色
+ */
 public class Women extends Person {
 
     public Women(List<Clothes> decorateClothes) {

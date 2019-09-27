@@ -1,5 +1,8 @@
 package decorate;
 
+/**
+ * 鞋子服饰
+ */
 public class Shoes implements Clothes {
     @Override
     public void clothesDes() {

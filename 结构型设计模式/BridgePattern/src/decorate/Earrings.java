@@ -1,5 +1,8 @@
 package decorate;
 
+/**
+ * 耳环服饰
+ */
 public class Earrings implements Clothes{
     @Override
     public void clothesDes() {

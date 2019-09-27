@@ -1,5 +1,8 @@
 package decorate;
 
+/**
+ * 夹克服饰
+ */
 public class Jacket implements Clothes {
     @Override
     public void clothesDes() {
