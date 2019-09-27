@@ -2,6 +2,9 @@ package decorator;
 
 import food.ChafingDish;
 
+/**
+ * 配料的抽象父类
+ */
 public abstract class Ingredients implements ChafingDish {
 
     protected ChafingDish chafingDish;

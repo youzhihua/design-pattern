@@ -5,6 +5,9 @@ import decorator.Fungus;
 import decorator.Ingredients;
 import food.ChafingDish;
 
+/**
+ * 测试类
+ */
 public class Test {
     public static void main(String[] args) {
         //汤底
