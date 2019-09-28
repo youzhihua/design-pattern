@@ -1,5 +1,8 @@
 package systerm;
 
+/**
+ * 引导员（门面类）
+ */
 public class Receptionist {
 
     private Surgery surgery;

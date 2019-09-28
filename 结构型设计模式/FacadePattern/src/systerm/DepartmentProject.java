@@ -1,5 +1,8 @@
 package systerm;
 
+/**
+ * 部门项目系统
+ */
 public class DepartmentProject {
 
     public void departmentCheck(){

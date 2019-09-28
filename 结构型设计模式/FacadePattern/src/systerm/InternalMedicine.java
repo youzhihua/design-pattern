@@ -1,5 +1,8 @@
 package systerm;
 
+/**
+ * 内科系统
+ */
 public class InternalMedicine {
 
     public void internalCheck(){
