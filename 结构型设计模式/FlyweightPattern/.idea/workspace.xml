@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49196196-d9ae-4b21-b062-ee0e76db3578" name="Default Changelist" comment="" />
+    <list default="true" id="d2a5d262-e4c5-4bd0-9774-52021d1d0221" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/FlyweightFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flyweight/ConcreteFlyweight1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flyweight/ConcreteFlyweight2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flyweight/Flyweight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FacadePattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FacadePattern/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,46 +24,60 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/systerm/InternalMedicine.java">
+        <entry file="file://$PROJECT_DIR$/src/factory/FlyweightFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" selection-start-line="2" selection-end-line="12" />
+            <state relative-caret-position="141">
+              <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/systerm/Surgery.java">
+        <entry file="file://$PROJECT_DIR$/src/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" selection-start-line="2" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/systerm/Receptionist.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="25" selection-start-line="1" selection-end-line="25" />
+            <state relative-caret-position="66">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/flyweight/Flyweight.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="66">
+              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/systerm/DepartmentProject.java">
+        <entry file="file://$PROJECT_DIR$/src/flyweight/ConcreteFlyweight1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="43" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="43" />
+              <folding>
+                <element signature="e#112#113#0" expanded="true" />
+                <element signature="e#148#149#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/flyweight/ConcreteFlyweight2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
-              <caret line="2" selection-start-line="2" selection-end-line="12" selection-end-column="1" />
+              <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
+              <folding>
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#166#167#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -75,11 +97,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/flyweight/flyweight.java" />
+        <option value="$PROJECT_DIR$/src/flyweight/ConcreteFlyweight.java" />
+        <option value="$PROJECT_DIR$/src/flyweight/ConcreteFlyweight1.java" />
+        <option value="$PROJECT_DIR$/src/flyweight/ConcreteFlyweight2.java" />
+        <option value="$PROJECT_DIR$/src/factory/FlyweightFactory.java" />
         <option value="$PROJECT_DIR$/src/Test.java" />
-        <option value="$PROJECT_DIR$/src/systerm/Surgery.java" />
-        <option value="$PROJECT_DIR$/src/systerm/Receptionist.java" />
-        <option value="$PROJECT_DIR$/src/systerm/InternalMedicine.java" />
-        <option value="$PROJECT_DIR$/src/systerm/DepartmentProject.java" />
+        <option value="$PROJECT_DIR$/src/flyweight/Flyweight.java" />
       </list>
     </option>
   </component>
@@ -99,29 +123,36 @@
         <subPane>
           <expand>
             <path>
-              <item name="FacadePattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FacadePattern" type="462c0819:PsiDirectoryNode" />
+              <item name="FlyweightPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlyweightPattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FacadePattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FacadePattern" type="462c0819:PsiDirectoryNode" />
+              <item name="FlyweightPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlyweightPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FacadePattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FacadePattern" type="462c0819:PsiDirectoryNode" />
+              <item name="FlyweightPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlyweightPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="systerm" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FlyweightPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlyweightPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="flyweight" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -141,7 +172,7 @@
   <component name="RunManager" selected="Application.Test">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="FacadePattern" />
+      <module name="FlyweightPattern" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -151,7 +182,7 @@
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="FacadePattern" />
+      <module name="FlyweightPattern" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -171,27 +202,28 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="49196196-d9ae-4b21-b062-ee0e76db3578" name="Default Changelist" comment="" />
-      <created>1569670204344</created>
+      <changelist id="d2a5d262-e4c5-4bd0-9774-52021d1d0221" name="Default Changelist" comment="" />
+      <created>1569836469745</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569670204344</updated>
-      <workItem from="1569670213395" duration="3535000" />
+      <updated>1569836469745</updated>
+      <workItem from="1569836472306" duration="1632000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3535000" />
+    <option name="totallyTimeSpent" value="1632000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14745308" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14745308" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -201,7 +233,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -223,50 +255,57 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="44">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/system.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/systerm/Surgery.java">
+    <entry file="file://$PROJECT_DIR$/src/flyweight/ConcreteFlyweight2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="11" />
+          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/systerm/DepartmentProject.java">
+    <entry file="file://$PROJECT_DIR$/src/flyweight/ConcreteFlyweight1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="110">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="43" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/systerm/InternalMedicine.java">
+    <entry file="file://$PROJECT_DIR$/src/factory/FlyweightFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/systerm/Receptionist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="25" selection-start-line="1" selection-end-line="25" />
+        <state relative-caret-position="141">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="66">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/flyweight/Flyweight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
         </state>
       </provider>
     </entry>
