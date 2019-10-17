@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fcf06fed-554d-4f8a-8471-cd5993be7180" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a720ae37-59f5-4f93-a47d-a529ca9e47d7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/colleague/Colleague.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colleague/Colleague.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/colleague/ConcreteColleague1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colleague/ConcreteColleague1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/colleague/ConcreteColleague2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colleague/ConcreteColleague2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mediator/ConcreteMediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mediator/ConcreteMediator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mediator/Mediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mediator/Mediator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StatePattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StatePattern/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,52 +24,51 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/context/Context.java">
+        <entry file="file://$PROJECT_DIR$/src/mediator/Mediator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
-              <caret line="22" column="1" selection-start-line="4" selection-end-line="22" selection-end-column="1" />
+              <caret line="23" column="1" selection-start-line="7" selection-end-line="23" selection-end-column="1" />
               <folding>
-                <element signature="e#145#146#0" expanded="true" />
-                <element signature="e#178#179#0" expanded="true" />
-                <element signature="e#226#227#0" expanded="true" />
-                <element signature="e#246#247#0" expanded="true" />
-                <element signature="e#292#293#0" expanded="true" />
-                <element signature="e#312#313#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#209#210#0" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/state/State.java">
+        <entry file="file://$PROJECT_DIR$/src/mediator/ConcreteMediator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" selection-start-line="2" selection-end-line="10" />
+            <state relative-caret-position="66">
+              <caret line="4" selection-start-line="4" selection-end-line="16" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/state/ConcreteState1.java">
+        <entry file="file://$PROJECT_DIR$/src/colleague/Colleague.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" selection-start-line="2" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="88">
+              <caret line="4" selection-start-line="4" selection-end-line="20" selection-end-column="1" />
               <folding>
-                <element signature="e#118#119#0" expanded="true" />
-                <element signature="e#154#155#0" expanded="true" />
+                <element signature="e#166#167#0" expanded="true" />
+                <element signature="e#205#206#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/state/ConcreteState2.java">
+        <entry file="file://$PROJECT_DIR$/src/colleague/ConcreteColleague1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
               <caret line="2" selection-start-line="2" selection-end-line="10" selection-end-column="1" />
               <folding>
-                <element signature="e#118#119#0" expanded="true" />
-                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#155#156#0" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -72,10 +77,23 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+            <state relative-caret-position="484">
+              <caret line="22" column="1" selection-start-line="6" selection-end-line="22" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/colleague/ConcreteColleague2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" selection-start-line="2" selection-end-line="10" selection-end-column="1" />
+              <folding>
+                <element signature="e#143#144#0" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -96,11 +114,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/state/State.java" />
-        <option value="$PROJECT_DIR$/src/state/ConcreteState1.java" />
-        <option value="$PROJECT_DIR$/src/state/ConcreteState2.java" />
-        <option value="$PROJECT_DIR$/src/context/Context.java" />
         <option value="$PROJECT_DIR$/src/Test.java" />
+        <option value="$PROJECT_DIR$/src/mediator/Mediator.java" />
+        <option value="$PROJECT_DIR$/src/mediator/ConcreteMediator.java" />
+        <option value="$PROJECT_DIR$/src/colleague/Colleague.java" />
+        <option value="$PROJECT_DIR$/src/colleague/ConcreteColleague1.java" />
+        <option value="$PROJECT_DIR$/src/colleague/ConcreteColleague2.java" />
       </list>
     </option>
   </component>
@@ -116,40 +135,39 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="StatePattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StatePattern" type="462c0819:PsiDirectoryNode" />
+              <item name="MediatorPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MediatorPattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="StatePattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StatePattern" type="462c0819:PsiDirectoryNode" />
+              <item name="MediatorPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MediatorPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="StatePattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StatePattern" type="462c0819:PsiDirectoryNode" />
+              <item name="MediatorPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MediatorPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="context" type="462c0819:PsiDirectoryNode" />
+              <item name="colleague" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="StatePattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StatePattern" type="462c0819:PsiDirectoryNode" />
+              <item name="MediatorPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MediatorPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="state" type="462c0819:PsiDirectoryNode" />
+              <item name="mediator" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -168,7 +186,7 @@
   <component name="RunManager" selected="Application.Test">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="StatePattern" />
+      <module name="MediatorPattern" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -178,7 +196,7 @@
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="StatePattern" />
+      <module name="MediatorPattern" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -198,17 +216,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fcf06fed-554d-4f8a-8471-cd5993be7180" name="Default Changelist" comment="" />
-      <created>1571058621769</created>
+      <changelist id="a720ae37-59f5-4f93-a47d-a529ca9e47d7" name="Default Changelist" comment="" />
+      <created>1571125520015</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571058621769</updated>
-      <workItem from="1571058624139" duration="1732000" />
+      <updated>1571125520015</updated>
+      <workItem from="1571125522786" duration="4769000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1732000" />
+    <option name="totallyTimeSpent" value="4769000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -255,54 +273,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/context/Context.java">
+    <entry file="file://$PROJECT_DIR$/src/mediator/Mediator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
-          <caret line="22" column="1" selection-start-line="4" selection-end-line="22" selection-end-column="1" />
+          <caret line="23" column="1" selection-start-line="7" selection-end-line="23" selection-end-column="1" />
           <folding>
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/state/State.java">
+    <entry file="file://$PROJECT_DIR$/src/mediator/ConcreteMediator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="10" />
+        <state relative-caret-position="66">
+          <caret line="4" selection-start-line="4" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/state/ConcreteState1.java">
+    <entry file="file://$PROJECT_DIR$/src/colleague/Colleague.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="20" selection-end-column="1" />
           <folding>
-            <element signature="e#118#119#0" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/state/ConcreteState2.java">
+    <entry file="file://$PROJECT_DIR$/src/colleague/ConcreteColleague1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" selection-start-line="2" selection-end-line="10" selection-end-column="1" />
           <folding>
-            <element signature="e#118#119#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/colleague/ConcreteColleague2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        <state relative-caret-position="484">
+          <caret line="22" column="1" selection-start-line="6" selection-end-line="22" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
